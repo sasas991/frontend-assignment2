@@ -51,4 +51,4 @@ Flexbox is used for the navigation and project cards.
 
 ## Summary
 
-In this assignment, i practiced using css flexbox and grid to create structured and responsive layouts. I worked with alignment, spacing, grid areas, columns, rows, hover effects, and combining flexbox with grid.
+In this assignment, i practiced using css flexbox and grid to create structured layouts. I worked with alignment, spacing, grid areas, columns, rows, hover effects, and combining flexbox with grid.
